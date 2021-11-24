@@ -14,7 +14,7 @@ foreach ($array as $string) {
     }
     
 }
-
+ 
 var_dump($clients);
 
 
